@@ -10,4 +10,4 @@ yarn dev
 
 ## License
 
-MIT
+[MIT](./LICENSE)
