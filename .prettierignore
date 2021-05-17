@@ -13,6 +13,7 @@
 # production
 /build
 /public
+LICENSE
 
 # misc
 .DS_Store
